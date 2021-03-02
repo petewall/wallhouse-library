@@ -1,0 +1,24 @@
+{
+  "name": "Wallhouse Library",
+  "version": "0.0.1",
+  "description": "A library of useful things for my projects",
+  "keywords": "",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/petewall/wallhouse-library.git"
+  },
+  "authors":
+  [
+    {
+      "name": "Pete Wall",
+      "email": "pete@petewall.net",
+      "url": "https://www.petewall.net"
+    }
+  ],
+  "license": "MIT",
+  "homepage": "https://www.petewall.net",
+  "dependencies": {},
+  "frameworks": "*",
+  "platforms": "*"
+}
